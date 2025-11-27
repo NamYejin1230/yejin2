@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Portfolio",
+  "description": "A minimalist, aesthetic portfolio for interior designers featuring a category-based gallery, admin management mode, and persistent local storage.",
+  "requestFramePermissions": []
+}
